@@ -44,15 +44,6 @@ function Experience() {
                     <h4 className='"vertical-timeline-element-subtitle'> Walnut Creek, CA</h4>
                     <p>Engineer</p>
                 </VerticalTimelineElement>
-                <VerticalTimelineElement className='vertical-timeline-element--work'
-                    date='February 2021 - January 2022'
-                    iconStyle={{ background: '#e9d35b', color: '#fff' }}
-                    icon={<WorkIcon />}
-                >
-                    <h3 className='"vertical-timeline-element-title'>dk Engineering</h3>
-                    <h4 className='"vertical-timeline-element-subtitle'> Walnut Creek, CA</h4>
-                    <p>Engineer</p>
-                </VerticalTimelineElement>
                 <VerticalTimelineElement className='vertical-timeline-element--education'
                     date='January 2022 - April 2022'
                     iconStyle={{ background: '#3e497a', color: '#fff' }}
